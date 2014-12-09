@@ -1,0 +1,5 @@
+endpoint: wc-sbe-cspp_telemetered
+instrument: wc-sbe-cspp_telemetered
+pairs:
+- [11079364_WC_SBE.txt, 11079364_WC_SBE_telem.yml]
+resource: wc_sbe/cspp/resource
