@@ -1,0 +1,5 @@
+endpoint: flort-dj-cspp_telemetered
+instrument: flort-dj-cspp_telemetered
+pairs:
+- [first_data.txt, first_data_telemetered.yml]
+resource: flort_dj/cspp/resource

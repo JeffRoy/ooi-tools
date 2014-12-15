@@ -1,0 +1,5 @@
+endpoint: flort-dj-cspp_recovered
+instrument: flort-dj-cspp_recovered
+pairs:
+- [first_data.txt, first_data_recovered.yml]
+resource: flort_dj/cspp/resource
